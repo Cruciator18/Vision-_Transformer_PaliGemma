@@ -1,0 +1,10 @@
+.venv/
+
+
+__pycache__/
+*.pyc
+
+paligemma-3b-pt-224
+
+.vscode/
+.DS_Store
